@@ -10,8 +10,11 @@
 * Ollama installed and running
 
 
-### test
+### test run
 
+* 환경 : OS X, ollama installed, python 3.9.6 (installed with Brew)
+
+  
 ```
 # python3 -m venv .venv
 
