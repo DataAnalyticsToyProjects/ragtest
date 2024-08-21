@@ -4,7 +4,10 @@
 
 * Better tutorial: https://python.langchain.com/v0.2/docs/tutorials/rag/
 
-
+* RAG에 사용된 문서 : https://d18rn0p25nwr6d.cloudfront.net/CIK-0001813756/975b3e9b-268e-4798-a9e4-2a9a7c92dc10.pdf
+  * Wework 청산 절차에 대한 finantial report인 듯.
+ 
+    
 ### Prerequistie: 
 
 * Ollama installed and running
