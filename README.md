@@ -62,8 +62,8 @@ I don't know. The provided financial information does not include revenue data f
 
 위와 같은 답변이 오는 것 볼 수 있는 데, 재미있는 점이 몇 가지 있다. 
 
-* I don't know 라는 답변이 돌아온다. 이 때 그냥 모른다 정도가 아니라, 당신이 준 문서에는 그 정보가 없다고 명확하고 구체적으로 얘기한ㄷ.ㅏ
+* I don't know 라는 답변이 돌아온다. 이 때 그냥 모른다 정도가 아니라, 당신이 준 문서에는 그 정보가 없다고 명확하고 구체적으로 얘기한다. 
 
-* 아마도 langchain의 RetrievalQA (https://github.com/seungwooketi/ragtest/blob/e4c5a514033c6e62215c13af7da376a47a98f325/main.py#L8) 체인이 이 기능을 하는 것 같다. 즉, langchain에서는 명시적으로 retrieval을 기반으로 한 질의 응답 기능을 제공하고 있다.
+* 아마도 langchain의 RetrievalQA 체인이 이 기능을 하는 것 같다. 즉, langchain에서는 명시적으로 retrieval을 기반으로 한 질의 응답 기능을 제공하고 있다.
 
-* 
+https://github.com/seungwooketi/ragtest/blob/e4c5a514033c6e62215c13af7da376a47a98f325/main.py#L8
